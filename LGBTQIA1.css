@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Noto Sans SC';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/notosanssc/v36/k3kCo84MPvpLmixcA63oeAL7Iqp5IZJF9bmaG4HFrYtHaw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/notoserifsc/v30/H4cyBXePl9DZ0Xe7gG9cyOj7uK2-n-D2rd4FY7TcqxWo-Yk.woff) format('woff');
+}
+@font-face {
+  font-family: 'ZCOOL KuaiLe';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/zcoolkuaile/v19/tssqApdaRQokwFjFJjvM6h2moYb0.woff) format('woff');
+}
+@font-face {
+  font-family: 'ZCOOL XiaoWei';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/zcoolxiaowei/v14/i7dMIFFrTRywPpUVX9_RJyM1UFWaGA.woff) format('woff');
+}
